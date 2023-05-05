@@ -1,0 +1,46 @@
+CREATE TABLE School
+(
+School_id varchar(10),
+School_name varchar(50),
+School_mandate varchar(100)
+);
+
+--Primary key on School_id
+
+create table tbl_Student
+Stud_No number(10),
+Stud_Fname varchar(20),
+Stud_Lname varchar(20),
+Stud sex varchar(1),
+Stud_address varchar(80)
+Stud_DOB date
+);
+
+--primary key on course code
+
+create table tbl_Course 
+Course_Code number(10),
+Course_Name varchar(30),
+Course_Description varchar(50),
+Course_cost number(10,2),
+School_id varchar(10)
+);
+
+--primary key on course code
+
+create table tbl Student_group
+Group_id varchar(5),
+Group_name varchar(15)
+);
+
+--primary key on Group_id
+
+create table tbl_Student_course_Detail
+reg_code number(10),
+reg_date date,
+stud_id number(10),
+course_code varchar(30),
+group_id varchar(10)
+);
+
+--primary key on reg_code
