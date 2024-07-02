@@ -19,4 +19,6 @@ Google Places
 
 1. Clone the repository from github
 
-   git clone[ https://github.com/Wapenda-Taka-Initiative/Ripoti_Taka_Application](url)
+   git clone
+
+[ https://github.com/Wapenda-Taka-Initiative/Ripoti_Taka_Application](url)
