@@ -14,3 +14,6 @@ MySQL Version 8.0.38
 Leaflet JS
 
 ## Installation
+
+1. Clone the repository from github
+   [(git clone https://github.com/Wapenda-Taka-Initiative/Ripoti_Taka_Application)]
