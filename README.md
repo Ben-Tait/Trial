@@ -22,3 +22,5 @@ Google Places
    git clone
 
 [ https://github.com/Wapenda-Taka-Initiative/Ripoti_Taka_Application](url)
+
+2. Install dependancies
