@@ -13,6 +13,8 @@ MySQL Version 8.0.38
 
 Leaflet JS
 
+Google Places
+
 ## Installation
 
 1. Clone the repository from github
