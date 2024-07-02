@@ -12,3 +12,5 @@ Flask Version 3.03
 MySQL Version 8.0.38
 
 Leaflet JS
+
+## Installation
