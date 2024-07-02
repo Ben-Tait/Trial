@@ -6,3 +6,6 @@ Solid waste management in Nairobi County faces challenges such as inadequate cov
 # Project Setup/Installation Instructions
 
 ## Dependancies
+Flask Version 3.03
+MySQL Version 8.0.38
+Leaflet JS
